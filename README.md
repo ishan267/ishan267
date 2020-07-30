@@ -10,5 +10,5 @@ I am a Competitive coding enthusiast and a Full Stack developer who likes to exp
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/ishan-thapa-426722194/)
 - 😄 Pronouns: ...Edd
-- ⚡ Fun fact: ...I am dance maniac....
+- ⚡ Fun fact: ...I am a dance maniac....
 -->
