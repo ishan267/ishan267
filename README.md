@@ -1,7 +1,7 @@
 ### Here is What I'm Working On!!!! 👋
 
 
-Here are some ideas to get you started:
+I am a competitive coding enthusiast and a web developer who likes to explore new stuff. Areas of my interest include development,cyber security,server hosting and data analysis....
 
 - 🔭 I’m currently working on ...ACM Student Chapter IIT(ISM) Dhanbad
 - 🌱 I’m currently learning ...Express.js
