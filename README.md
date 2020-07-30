@@ -1,7 +1,7 @@
 ### Here is What I'm Working On!!!! 👋
 
 
-I am a competitive coding enthusiast and a web developer who likes to explore new stuff. Areas of my interest include development,cyber security,server hosting and data analysis....
+I am a Competitive coding enthusiast and a Full Stack developer who likes to explore new stuff. Areas of my interest include development,cyber security,server hosting and data analysis....
 
 - 🔭 I’m currently working on ...ACM Student Chapter IIT(ISM) Dhanbad
 - 🌱 I’m currently learning ...Express.js
