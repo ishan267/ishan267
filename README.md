@@ -9,7 +9,7 @@ I am a Full Stack Developer and a Competitive Coding enthusiast with certified r
 - 🤔 I’m looking for help with ...RESTful API
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/ishan-thapa-426722194/)
-- 👯 Or Visit my Porfolio website: (https://ishanportfolio.blogspot.com/)
+- 👯 Or Visit my Personal website: [Portfolio](https://ishanportfolio.blogspot.com/)
 - 😄 Pronouns: ...Edd
 - ⚡ Fun fact: ...I am a dance maniac....
 -->
