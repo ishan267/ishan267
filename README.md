@@ -1,14 +1,15 @@
 ### Here is What I'm Working On!!!! 👋
 
 
-I am a Competitive coding enthusiast and a Full Stack developer who likes to explore new stuff. Fields of my fascination include development,cyber security,server hosting and data analysis....
+I am a Full Stack Developer and a Competitive Coding enthusiast with certified result-driven skills in Website development, Hybrid, and Native mobile apps, UI UX and Database Management. Committed to producing high-quality, user-friendly and scalable software. Skilled with data structures, object-oriented concepts. Also a React lover with a passion for exploring new tools and ideas to solve real-world problems....
 
-- 🔭 I’m currently working on ...ACM Student Chapter IIT(ISM) Dhanbad
-- 🌱 I’m currently learning ...Express.js
-- 👯 I’m looking to collaborate on ...Express.js
-- 🤔 I’m looking for help with ...APIs
+- 🔭 I’m currently working on ...a MERN stack project
+- 🌱 I’m currently learning ...MongoDB
+- 👯 I’m looking to collaborate on ...React
+- 🤔 I’m looking for help with ...RESTful API
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/ishan-thapa-426722194/)
+- 👯 Or Visit my Porfolio website: (https://ishanportfolio.blogspot.com/)
 - 😄 Pronouns: ...Edd
 - ⚡ Fun fact: ...I am a dance maniac....
 -->
